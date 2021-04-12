@@ -1,0 +1,22 @@
+h1{  
+    color:gold;
+    
+ 
+    }
+
+    .header{
+        background-color:white;
+        display:flex;
+        justify-content: space-between;
+    }
+
+.grid{
+    display:flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.grid img{
+background-color:rgb(195, 185, 185);
+border: 1px solid black;
+border-radius: 50;
+}
